@@ -397,7 +397,7 @@ function page(p) {
         links[2].image = createImage("./portfolio/pingpong.png")
         links[2].link = "https://maxxxara.github.io/pingpong/"     
         links[3].show = true
-        links[3].image = createImage("./portfolio/Memory-2.JPG")
+        links[3].image = createImage("./portfolio/Memory-2.jpg")
         links[3].link = "https://starlit-frangipane-7a5879.netlify.app/"
     } else if (p == "Markup") {
         var t1 = new Text(100, 100, "Markup")

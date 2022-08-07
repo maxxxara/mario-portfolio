@@ -404,7 +404,7 @@ function page(p) {
         t1.draw()
         links[0].image = createImage("./portfolio/JobBoard.JPG")
         links[0].link = "https://maxxxara.github.io/JobBoard/"
-        links[1].image = createImage("./portfolio/Landing.png")
+        links[1].image = createImage("./portfolio/landing.png")
         links[1].link = "https://maxxxara.github.io/landing-2/"
         links[2].show = false
     } else if (p == "React") {

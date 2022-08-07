@@ -1,6 +1,6 @@
 @font-face {
     font-family: "marioFont";
-    src: url('./mariofont.ttf');
+    src: url('./marioFont.ttf');
 }
 body {
     font-family: "marioFont";
